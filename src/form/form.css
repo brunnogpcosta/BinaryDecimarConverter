@@ -1,0 +1,75 @@
+.myform {
+    width: 200px;
+    height: 240px;
+    background-color: #ddd;
+    box-shadow: 0px 0px 5px #5a5959b6;
+    padding: 15px;
+    margin-top: 40%;
+}
+
+h3 {
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+}
+
+#resultButton {
+    width: 200px;
+    height: 40px;
+    margin-top: -10px;
+    margin-left: -15px;
+    background-color: rgba(126, 123, 123, 0.404);
+    border: none;
+    font-size: large;
+}
+
+#resultButton:hover {
+    background-color: rgb(74, 75, 75);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#result h4 {
+    text-align: center;
+}
+
+#MyResult {
+    width: 200px;
+    background-color: rgb(98, 184, 98);
+    box-shadow: 0px 0px 5px #7c7c7cb6;
+    margin-top: -10px;
+    margin-left: -15px;
+    word-wrap: break-word;
+    /*serve para quebrar linha de texto*/
+}
+
+#MyResult h4 {
+    padding: 10px;
+    color: black;
+    max-width: 100%;
+}
+
+#MyResultNegativo {
+    width: 200px;
+    background-color: rgb(226, 87, 87);
+    box-shadow: 0px 0px 5px #7c7c7cb6;
+    margin-top: -10px;
+    margin-left: -15px;
+}
+
+#MyResultNegativo h4 {
+    padding: 10px;
+    color: black;
+}
+
+
+#inputtext{
+    width: 170px;
+    height: 25px;
+    font-size: 1.3em;
+    border: 1px solid rgb(150, 149, 149);
+}
+
+
