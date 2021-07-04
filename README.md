@@ -1,5 +1,8 @@
 This project was created to pratice and to start on react
 
+## Template
+![image](https://user-images.githubusercontent.com/49787374/124399059-7a2d0f80-dcef-11eb-9aef-d6c633cd1273.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
